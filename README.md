@@ -19,10 +19,19 @@
 
 <div align="center">
 
-| &nbsp;&nbsp;&nbsp;&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&shape=square)](https://facebook.com/@PrototipoRCC)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&shape=square)](https://instagram.com/@leonardotm1)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&shape=square)](https://linkedin.com/in/leonardo-adames)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white&shape=square)](https://pinterest.com/haezdesing8821)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&shape=square)](https://tiktok.com/@@leonardotm1)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&shape=square)](https://twitch.tv/leitog21)&nbsp;&nbsp;&nbsp;&nbsp; |
-|---|---|---|---|---|---|
-| &nbsp;&nbsp;&nbsp;&nbsp;[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&shape=square)](https://x.com/LeitoRCC)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&shape=square)](https://youtube.com/@@Graphicdatastudio)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&shape=square)](https://codepen.io/leonardo-adames)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&shape=square)](mailto:haezdesing8821@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Takanome3573)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gUEljrStrO)&nbsp;&nbsp;&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;&nbsp;[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Leonardo%20Adames)&nbsp;&nbsp;&nbsp;&nbsp; |  |  |  |  |  |
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&shape=square)](https://facebook.com/@PrototipoRCC)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&shape=square)](https://instagram.com/@leonardotm1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&shape=square)](https://linkedin.com/in/leonardo-adames)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white&shape=square)](https://pinterest.com/haezdesing8821)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&shape=square)](https://tiktok.com/@@leonardotm1)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&shape=square)](https://twitch.tv/leitog21)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&shape=square)](https://x.com/LeitoRCC)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&shape=square)](https://youtube.com/@@Graphicdatastudio)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&shape=square)](https://codepen.io/leonardo-adames)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&shape=square)](mailto:haezdesing8821@gmail.com)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Takanome3573)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gUEljrStrO)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Leonardo%20Adames)
 
 </div>
 

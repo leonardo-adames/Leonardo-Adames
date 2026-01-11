@@ -27,23 +27,9 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gUEljrStrO)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Leonardo%20Adames)
 
-
-<!-- <div align="left">
-   
-  Stack Overflow 
-  <a href="https://stackoverflow.com/users/TU_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-  </a>   
-
-</div> -->
-
-<br><br>
-
 ### __¿QUIÉN SOY?__
 
 <h3>Estudiante apasionado por la tecnología y creador de contenido educativo. Comparto tutoriales claros y prácticos sobre herramientas, programación y entornos de desarrollo. Mi objetivo es ayudar a otros a aprender desde cero, construir bases sólidas y dominar tecnologías modernas. En YouTube y otras plataformas documento mi proceso, mis proyectos y mi crecimiento como desarrollador.</h3>
-
-<br><br>
 
 ### __💻ESTIDIOS EN CURSO, HABILIDADES TÉCNICAS Y HERRAMIENTAS:__
 
@@ -115,16 +101,16 @@
 ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
 
 ### __ALGUNAS TECNOLOGÍAS LAS DOMINO, Y OTRAS ESTAN EN PROCESO DE CAPACITACIÓN__
-
+---
 <br><br>
 
-## __📊 GitHub Stats:__
-![](https://github-readme-stats.vercel.app/api?username=leonardo-adames&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=leonardo-adames&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-adames&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2 align="center">📊 GitHub Stats:</h2>
 
+| Repository Activity Trends | Collaborative Productivity - Last 28 days |
+| ----------- | ----------- |
+|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
 
-## __🏆 GitHub Trophies__
+<h2 align="center">🏆 GitHub Trophies</h2>
 <br><br>
 
 ![](https://github-profile-trophy.vercel.app/?username=leonardo-adames&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -171,13 +157,4 @@
     <img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" />
   </a>
 
-  <a href="https://square.link/u/USERNAME">
-    <img src="https://img.shields.io/badge/Square-28C101?style=for-the-badge&logo=square&logoColor=white" />
-  </a>
-
-</div>
-
-
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

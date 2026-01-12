@@ -20,8 +20,6 @@
 ![GitBook](https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)
 [![Coda](https://img.shields.io/badge/coda-%23F46A54.svg?style=for-the-badge&logo=coda&logoColor=white)](https://coda.io/@a-a-leonardo-adames)
 [![Xbox](https://img.shields.io/badge/🎮%20Xbox-107C10?style=for-the-badge)]()
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](ArielTopo2025@outlook.com)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/haezdesingr)
 
 </div>
 

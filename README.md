@@ -37,7 +37,7 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> TEGNOLOGIES AND TOOLS FOR USE
 
-<h3>📋 Languages, 💾 Databases, 🗄️ Servers, 🧪 Testing</h3>
+<h3 align="center">📋 Languages, 💾 Databases, 🗄️ Servers, 🧪 Testing</h3>
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 
 </div>
 
-<h3>👨🏻‍💻 Frameworks, 📚 Libraries, 🎯 Platforms, 📟 Terminal, 🔌 Control Version, 🎨 Designs</h3>
+<h3 align="center">👨🏻‍💻 Frameworks, 📚 Libraries, 🎯 Platforms, 📟 Terminal, 🔌 Control Version, 🎨 Designs</h3>
 <div align="center">
 
 |![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) | ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) | ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp; | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) | ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white) | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)|

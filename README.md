@@ -106,8 +106,6 @@
 
 <h3 align="center">💰 You can help me by Donating</h3>
 
-<br><br>
-
 <div align="center">
 
   <a href="https://buymeacoffee.com/haezdesingr">

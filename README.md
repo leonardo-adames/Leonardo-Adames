@@ -91,10 +91,14 @@
       <img src="https://github-readme-stats-sigma-gules-93.vercel.app/api?username=leonardo-adames&show_icons=true&theme=radical" />
     </td>
     <td>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+    </td>
+    <td>
       <img src="https://streak-stats.demolab.com?user=leonardo-adames&theme=radical" />
     </td>
   </tr>
 </table>
+
 
 
 <br><br>

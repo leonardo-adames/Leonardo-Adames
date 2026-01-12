@@ -23,17 +23,17 @@
 
 </div>
 
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> ABOUT ME
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> ABOUT ME
 
 <h3>A student passionate about technology and creator of educational content, I share clear and practical tutorials on tools, programming, and development environments. My goal is to help others learn from scratch, build a solid foundation, and master modern technologies. My process, projects, and growth as a developer are documented on YouTube and other platforms.</h3>
 
-<h1>💻My stacks Skills</h1>
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> MY STACKS SKILLS
 
 |![](https://img.shields.io/badge/BI-Data%20Analytics-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/DB-SQL/NoSQL/%20LAnalytics-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web-%20Frontend/Backend-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
 |---|---|---|---|---|
 |![](https://img.shields.io/badge/Graphic%20Design-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/FrameWorks/APIs/Server%20-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
 
-<h1>Technologies and tools for use</h1>
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> TEGNOLOGIES AND TOOLS FOR USE
 
 <h3>📋 Languages, 💾 Databases, 🗄️ Servers, 🧪 Testing</h3>
 
@@ -54,7 +54,7 @@
 
 </div>
 
-<h3>📚 Frameworks, Plataformas y Bibliotecas</h3>
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> FRAMEWORKS, PLATFORMS AND LIBRARIES
 
 <div align="center">
 
@@ -68,7 +68,7 @@
 
 </div>
 
-<h3>🎨 Design, 💻 Terminals, Control Version</h3>
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> 🎨 DESIGN, 💻 TERMINAL, CONTROL VERSION
 
 <div align="center">
 
@@ -79,7 +79,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats:</h2>
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GITHUB STATS
 
 [![](https://github-readme-stats.vercel.app/api?username=leonardo-adames&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/leonardo-adames)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=leonardo-adames&theme=material-palenight)](https://github.com/leonardo-adames)

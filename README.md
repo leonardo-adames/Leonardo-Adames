@@ -83,6 +83,18 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GITHUB STATS
 
+<!--![Ariel's GitHub stats](https://github-readme-stats-sigma-gules-93.vercel.app/api?username=leonardo-adames&show_icons=true&theme=radical)-->
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-gules-93.vercel.app/api?username=leonardo-adames&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=leonardo-adames&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 
 <br><br>

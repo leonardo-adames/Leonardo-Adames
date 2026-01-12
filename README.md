@@ -67,7 +67,6 @@
 
 </div>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> DESIGN, 💻 TERMINAL, CONTROL VERSION
 <h3>📟 Terminal, 🔌 Control Version, 🎨 Designs</h3>
 <div align="center">
 

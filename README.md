@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%ffffff&size=50&center=true&vCenter=true&height=60&width=610&lines=Heyyy!+I'm+Leonardo+Adames;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%ffffff&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+I'm+Leonardo+Adames;Welcome+to+my+profile!" alt="Title">
 </div>
 
 <img src="https://github.com/user-attachments/assets/d06f566f-2093-4855-87cf-416663f80bfa" alt="banner" width="1200" style="border-radius: 35px; margin-top: 35px;" />
@@ -91,17 +91,10 @@
       <img src="https://github-readme-stats-sigma-gules-93.vercel.app/api?username=leonardo-adames&show_icons=true&theme=radical" />
     </td>
     <td>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-    </td>
-    <td>
       <img src="https://streak-stats.demolab.com?user=leonardo-adames&theme=radical" />
     </td>
   </tr>
 </table>
-
-
-
-<br><br>
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 
@@ -125,12 +118,6 @@
     <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
   </a>
 
-  <a href="https://ko-fi.com/USERNAME">
-    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" />
-  </a>
-
-  
-
   <a href="https://www.mercadopago.com/checkout/v1/redirect?pref_id=USERNAME">
     <img src="https://img.shields.io/badge/Mercado%20Pago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white" />
   </a>
@@ -143,4 +130,5 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/tanyagupta0201)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color=FFFFFF&font=Roboto)](https://github.com/tanyagupta0201)
+

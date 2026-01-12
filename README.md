@@ -1,4 +1,6 @@
-<h1 align="center">Welcome , I'm Leonardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%ffffff&size=50&center=true&vCenter=true&height=60&width=610&lines=Heyyy!+I'm+Leonardo+Adames;Welcome+to+my+profile!" alt="Title"></img>
+</div>
 
 <img src="https://github.com/user-attachments/assets/d06f566f-2093-4855-87cf-416663f80bfa" alt="banner" width="1200" style="border-radius: 35px; margin-top: 35px;" />
 
@@ -68,7 +70,7 @@
 
 </div>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> 🎨 DESIGN, 💻 TERMINAL, CONTROL VERSION
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> DESIGN, 💻 TERMINAL, CONTROL VERSION
 
 <div align="center">
 
@@ -81,9 +83,7 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GITHUB STATS
 
-[![](https://github-readme-stats.vercel.app/api?username=leonardo-adames&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/leonardo-adames)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=leonardo-adames&theme=material-palenight)](https://github.com/leonardo-adames)
-</div>
+
 
 <br><br>
 
@@ -93,8 +93,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
-
----
 [![](https://visitcount.itsvg.in/api?id=leonardo-adames&icon=10&color=12)](https://visitcount.itsvg.in)
 
 <h3 align="center">💰 You can help me by Donating</h3>
@@ -127,4 +125,6 @@
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 25px;">
 
+---
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/tanyagupta0201)

@@ -85,11 +85,15 @@
     <td>
       <img src="https://github-readme-stats-sigma-gules-93.vercel.app/api?username=leonardo-adames&show_icons=true&theme=radical" />
     </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=leonardo-adames&theme=radical" />
+    <td><img src="https://github-readme-stats-sigma-gules-93.vercel.app/api/pin/?username=leonardo-adames&repo=tu-repo&theme=radical" />
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-gules-93.vercel.app/api/top-langs/?username=leonardo-adames&layout=compact&theme=radical"
+</p>
+
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 

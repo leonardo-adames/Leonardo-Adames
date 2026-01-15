@@ -16,6 +16,109 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> TEGNOLOGIES AND TOOLS FOR USE
 
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>Programming Languages</kbd>
+    <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=py" /> 
+    <img src="https://skillicons.dev/icons?i=cs" />
+    <img src="https://skillicons.dev/icons?i=java" />
+    <!--<img src="https://skillicons.dev/icons?i=python,cs,java," />-->
+  </kbd>
+  <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=fastapi" />
+    <img src="https://skillicons.dev/icons?i=spring" />
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=net" />
+  </kbd>
+   <kbd>
+    <kbd>CSS Preprocessor</kbd>
+    <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=sass" />
+    <img src="https://skillicons.dev/icons?i=less" />
+  </kbd>
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </kbd>
+  <kbd>
+    <kbd>Database</kbd>
+    <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=mongo" />
+    <img src="https://skillicons.dev/icons?i=postgres" />
+    <img src="https://skillicons.dev/icons?i=supabase" />
+  </kbd>
+  <br>
+  <br>
+  <kbd>
+    <kbd>Data Science & AI</kbd>
+    <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=tensorflow" />
+    <img src="https://skillicons.dev/icons?i=pytorch" />
+    <img src="https://skillicons.dev/icons?i=sklearn" />
+    <img src="https://skillicons.dev/icons?i=opencv" />
+  </kbd>
+ 
+  <kbd>
+    <kbd>Web Frameworks & tools</kbd>
+    <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=angular" />
+    <img src="https://skillicons.dev/icons?i=vue" />
+    <img src="https://skillicons.dev/icons?i=svelte" />
+    <img src="https://skillicons.dev/icons?i=vercel" />
+    <img src="https://skillicons.dev/icons?i=astro" />
+  </kbd>
+  <kbd>
+    <kbd>Terminal Scripts & Control Version</kbd>
+    <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=bash" />
+    <img src="https://skillicons.dev/icons?i=powershell" />
+    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=docker" />
+    <img src="https://skillicons.dev/icons?i=githubactions" />
+  </kbd>
+  <kbd>
+    <kbd>Tools</kbd>
+    <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=anaconda,netlify,visualstudio,webstorm,vscode,idea,vim" />
+  </kbd>
+  <kbd>
+    <kbd>Server, testing</kbd> 
+    <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=nginx" />
+  </kbd>
+  <kbd>
+    <kbd>Game Design & content creation</kbd>
+    <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=ps,ae,ai,au,pr" />
+  </kbd>
+  <kbd>
+    <kbd>Game Development</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+  </kbd>
+</p>
 
 ---
 

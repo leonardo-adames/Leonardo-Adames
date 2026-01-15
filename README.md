@@ -32,6 +32,7 @@
     <img src="https://skillicons.dev/icons?i=fastapi" />
     <img src="https://skillicons.dev/icons?i=spring" />
     <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=fasti" />
   </kbd>
    <kbd>
     <kbd>CSS Preprocessor</kbd>
@@ -50,26 +51,6 @@
     <img src="https://skillicons.dev/icons?i=ts" />
   </kbd>
   <kbd>
-    <kbd>Database</kbd>
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=mongo" />
-    <img src="https://skillicons.dev/icons?i=mysql" />
-    <img src="https://skillicons.dev/icons?i=postgres" />
-    <img src="https://skillicons.dev/icons?i=supabase" />
-  </kbd>
-  <br>
-  <br>
-  <!--<kbd>
-    <kbd>Data Science & AI</kbd>
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=tensorflow" />
-    <img src="https://skillicons.dev/icons?i=pytorch" />
-    <img src="https://skillicons.dev/icons?i=sklearn" />
-    <img src="https://skillicons.dev/icons?i=opencv" />
-  </kbd>-->
-  <kbd>
     <kbd>Front-end Frameworks & tools</kbd>
     <br>
     <br>
@@ -81,6 +62,24 @@
     <img src="https://skillicons.dev/icons?i=svelte" />
     <img src="https://skillicons.dev/icons?i=vercel" />
     <img src="https://skillicons.dev/icons?i=astro" />
+    <img src="https://skillicons.dev/icons?i=vite" />
+  </kbd>
+  <kbd>
+    <kbd>Database</kbd>
+    <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=mongo" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=postgres" />
+    <img src="https://skillicons.dev/icons?i=redis" />
+    <img src="https://skillicons.dev/icons?i=supabase" />
+    
+  </kbd>
+  <kbd>
+    <kbd>Tools</kbd>
+    <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=anaconda,netlify,visualstudio,webstorm,vscode,idea,vim" />
   </kbd>
   <kbd>
     <kbd>Terminal Scripts & Control Version</kbd>
@@ -95,12 +94,14 @@
     <img src="https://skillicons.dev/icons?i=kubernetes" />
   </kbd>
   <br>
-  <br>
   <kbd>
-    <kbd>Tools</kbd>
+    <kbd>Data Science & AI</kbd>
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=anaconda,netlify,visualstudio,webstorm,vscode,idea,vim" />
+    <img src="https://skillicons.dev/icons?i=tensorflow" />
+    <img src="https://skillicons.dev/icons?i=pytorch" />
+    <img src="https://skillicons.dev/icons?i=sklearn" />
+    <img src="https://skillicons.dev/icons?i=opencv" />
   </kbd>
   <kbd>
     <kbd>Server, testing % Pacages Managements</kbd> 

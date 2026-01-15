@@ -10,9 +10,9 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> MY SOFTS SKILLS
 
-|![](https://img.shields.io/badge/Critical%20thinking-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Problem%20Lsolving-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/%20Teamwork_adn_Collaboration-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/%20Effective_communication-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
+|![](https://img.shields.io/badge/Critical%20thinking-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Problem%20Lsolving-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/%20Teamwork_adn_Collaboration-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/%20Effective_communication-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Active_Lisstening-brightgreen?style=for-the-badge)|
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/Graphic%20Design-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/FrameWorks/APIs/Server%20-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+|![](https://img.shields.io/badge/Leadership%20-blue?style=for-the-badge)|![](https://img.shields.io/badge/Time_Management/a%20Organization-blue?style=for-the-badge)|![](https://img.shields.io/badge/Adaptability/Flexiblity%20-blue?style=for-the-badge)|![](https://img.shields.io/badge/Emotional%20VIntelligence-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> TEGNOLOGIES AND TOOLS FOR USE
 
@@ -22,19 +22,11 @@
 
 <!--![Ariel's GitHub stats](https://github-readme-stats-sigma-gules-93.vercel.app/api?username=leonardo-adames&show_icons=true&theme=radical)-->
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-gules-93.vercel.app/api?username=leonardo-adames&show_icons=true&theme=radical" />
-    </td>
-    <td><img src="https://github-readme-stats-sigma-gules-93.vercel.app/api/pin/?username=leonardo-adames&repo=tu-repo&theme=radical" />
-    </td>
-  </tr>
-</table>
+| Github Stats | Lenguages |
+|---|---|
+  <img src="https://github-readme-stats-sigma-gules-93.vercel.app/api?username=leonardo-adames&show_icons=true&theme=radical" />|
+  <img src="https://github-readme-stats-sigma-gules-93.vercel.app/api/top-langs/?username=leonardo-adames&layout=compact&theme=radical" />|
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-gules-93.vercel.app/api/top-langs/?username=leonardo-adames&layout=compact&theme=radical"
-</p>
 
 
 <h3 align="center">✍️ Random Dev Quote</h3>

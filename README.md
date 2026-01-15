@@ -16,17 +16,50 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> TEGNOLOGIES AND TOOLS FOR USE
 
+
 ---
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GITHUB STATS
 
-<!--![Ariel's GitHub stats](https://github-readme-stats-sigma-gules-93.vercel.app/api?username=leonardo-adames&show_icons=true&theme=radical)-->
+<div align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=244390220" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=244390220&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @leonardo-adames" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=244390220&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+</div>
 
-| Github Stats | Lenguages |
-|---|---|
-  <img src="https://github-readme-stats-sigma-gules-93.vercel.app/api?username=leonardo-adames&show_icons=true&theme=radical" />|
-  <img src="https://github-readme-stats-sigma-gules-93.vercel.app/api/top-langs/?username=leonardo-adames&layout=compact&theme=radical" />|
+<hr>
 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center;">Active Contributors (Últimos 28 días)</th>
+      <th style="text-align:center;">Top Contributors (Últimos 28 días)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors?repo_id=1131492199&limit=30" target="_blank">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=1131492199&limit=30&image_size=auto&color_scheme=dark" width="655">
+            <img alt="Active Contributors of leonardo-adames/Leonardo-Adames - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=1131492199&limit=30&image_size=auto&color_scheme=light" width="655">
+          </picture>
+        </a>
+      </td>
+      <td>
+        <a href="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors?repo_id=340181518" target="_blank">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=340181518&image_size=auto&color_scheme=dark" width="373">
+            <img alt="Top Contributors of fastfetch-cli/fastfetch - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=340181518&image_size=auto&color_scheme=light" width="373">
+          </picture>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 <h3 align="center">✍️ Random Dev Quote</h3>

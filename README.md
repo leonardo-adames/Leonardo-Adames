@@ -37,13 +37,7 @@
     <img src= "https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)"/>
     <img src= "https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B"/>
   </kbd>
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> MY SOFTS SKILLS
-
-|![](https://img.shields.io/badge/Critical%20thinking-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Problem%20Lsolving-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/%20Teamwork_adn_Collaboration-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/%20Effective_communication-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Active_Lisstening-brightgreen?style=for-the-badge)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/Leadership%20-blue?style=for-the-badge)|![](https://img.shields.io/badge/Time_Management/a%20Organization-blue?style=for-the-badge)|![](https://img.shields.io/badge/Adaptability/Flexiblity%20-blue?style=for-the-badge)|![](https://img.shields.io/badge/Emotional%20VIntelligence-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
-
+      
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> TEGNOLOGIES AND TOOLS FOR USE
 
 <p style="display: inline-block;" align="center">
@@ -136,6 +130,13 @@
     <img src="https://skillicons.dev/icons?i=ps,ai,pr" />
   </kbd>
 </p>
+<br>
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> MY SOFTS SKILLS
+
+|![](https://img.shields.io/badge/Critical%20thinking-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Problem%20Lsolving-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/%20Teamwork_adn_Collaboration-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/%20Effective_communication-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Active_Lisstening-brightgreen?style=for-the-badge)|
+|---|---|---|---|---|
+|![](https://img.shields.io/badge/Leadership%20-blue?style=for-the-badge)|![](https://img.shields.io/badge/Time_Management/a%20Organization-blue?style=for-the-badge)|![](https://img.shields.io/badge/Adaptability/Flexiblity%20-blue?style=for-the-badge)|![](https://img.shields.io/badge/Emotional%20VIntelligence-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
 
 ---
 
@@ -191,111 +192,62 @@
 [![](https://visitcount.itsvg.in/api?id=leonardo-adames&icon=10&color=12)](https://visitcount.itsvg.in)
 <br>
 
-<H2 align="center">MY SOCIAL NETWORKS</H2>
+<H2 align="center">MY SOCIAL NETWORKS[Personal, Streaming & Studying]</H2>
   
 <p style="display: inline-block;" align="center">
   <kbd>
-    <kbd>Blogs & Personal</kbd>
-    <br>
-    <br>
-    <br>
     <a href="https://facebook.com/@PrototipoRCC" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&shape=square"
            alt="Facebook"/>
-    </a>
-    <br>
     <a href="https://instagram.com/@leonardotm1" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&shape=square"
            alt="Instagram"/>
-    </a>
-    <br>
     <a href="https://linkedin.com/in/leonardo-adames" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&shape=square"
            alt="LinkedIn"/>
-    </a>
-    <br>
     <a href="https://pinterest.com/haezdesing8821" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white&shape=square"
            alt="Pinterest"/>
-    </a>
-    <br>
     <a href="https://x.com/LeitoRCC" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&shape=square"
            alt="X"/>
-    </a>
-    <br>
     <a href="https://mailto:haezdesing8821@gmail.com" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&shape=square"
            alt="Gmail"/>
-    </a>
-  </kbd>
-
-  <kbd>
-    <kbd>Streaming</kbd>
-    <br>
-    <br>
-    <br>
     <a href="https://tiktok.com/@@leonardotm1 " target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&shape=square"
            alt="Tiktok"/>
     </a>
-    <br>
     <a href="https://twitch.tv/leitog21" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&shape=square"
            alt="Twich"/>
-    </a>
-    <br>
     <a href="https://youtube.com/@@Graphicdatastudio" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&shape=square"
            alt="Youtube"/>
-    </a>
-    <br>
     <a href="https://facebook.com/@PrototipoRCC" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Facebook%20Live-ED4242?style=for-the-badge&logo=Facebook%20Live&logoColor=white"
            alt="Facebook Live"/>
-    </a>
-    <br>
     <a href="" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/kick-53FC18?style=for-the-badge&logo=kick&logoColor=white"
            alt="Kick"/>
-    </a>
-    <br>
     <a href="https://youtube.com/@@Graphicdatastudio" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white"
            alt="Youtube Gaming"/>
-    </a>
-  </kbd>
-
-  <kbd>
-    <kbd>Student</kbd>
-    <br>
-    <br>
-    <br>
     <a href="https://" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"
            alt="FreeCodeCamp"/>
-    </a>
-    <br>
     <a href="https://leetcode.com/u/gUEljrStrO" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
            alt="LeetCode"/>
-    </a>
-    <br>
     <a href="https://www.codewars.com/users/Leonardo%20Adames" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"
            alt="Codewars"/>
-    </a>
-    <br>
     <a href="https://" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white"
            alt="edX"/>
-    </a>
-    <br>
     <a href="https://" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white"
            alt="GitBookKick"/>
-    </a>
-    <br>
     <a href="https://" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/W3%20Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white"
            alt="W3 Schools"/>

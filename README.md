@@ -32,7 +32,7 @@
     <img src="https://skillicons.dev/icons?i=fastapi" />
     <img src="https://skillicons.dev/icons?i=spring" />
     <img src="https://skillicons.dev/icons?i=nodejs" />
-    <img src="https://skillicons.dev/icons?i=fasti" />
+    <img src="https://skillicons.dev/icons?i=gradle" />
   </kbd>
    <kbd>
     <kbd>CSS Preprocessor</kbd>

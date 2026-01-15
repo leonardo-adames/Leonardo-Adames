@@ -3,10 +3,40 @@
 </div>
 
 <img src="https://github.com/user-attachments/assets/d06f566f-2093-4855-87cf-416663f80bfa" alt="banner" width="1200" style="border-radius: 35px; margin-top: 35px;" />
+<h2 align="center">Web Developer and Programmer, Graphic Designer and Content Creator</h2>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> ABOUT ME
 
 <h3>A student passionate about technology and creator of educational content, I share clear and practical tutorials on tools, programming, and development environments. My goal is to help others learn from scratch, build a solid foundation, and master modern technologies. My process, projects, and growth as a developer are documented on YouTube and other platforms.</h3>
+
+<kbd>
+    <kbd>Tools For Studyind Know</kbd>
+    <br>
+    <br>
+    <image src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+    <image src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white"/>
+    <image src="https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
+    <image src="Pydantic](https://img.shields.io/badge/pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white"/>
+    <image src="https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3"/>
+    <image src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
+    <image src="https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515"/>
+    <image src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
+    <image src="https://img.shields.io/badge/DataGrip-%23000000.svg?style=for-the-badge&logo=DataGrip&logoColor=white"/>
+    <image src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+    <image src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+    <image src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue"/>
+    <image src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+    <image src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+    <image src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/>
+    <image src="https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+    <image src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+    <image src="https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7"/>
+    <img src= "https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3"/>
+    <img src= "https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)"/>
+    <img src= "https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B"/>
+  </kbd>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> MY SOFTS SKILLS
 
@@ -18,52 +48,55 @@
 
 <p style="display: inline-block;" align="center">
   <kbd>
-    <kbd>Programming Languages</kbd>
+    <kbd>Web & Programming Languages</kbd>
     <br>
     <br>
     <img src="https://skillicons.dev/icons?i=py" /> 
     <img src="https://skillicons.dev/icons?i=java" />
-    <img src="https://skillicons.dev/icons?i=dart" />
+    <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://skillicons.dev/icons?i=ts" />
   </kbd>
+   <kbd>
+    <kbd>Markup & Styling Lenguage</kbd>
+    <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=css" />
+  </kbd>
+   <kbd>
+    <kbd>CSS Frameworks &  Prepocessor</kbd>
+    <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=sass" />
+    <img src="https://skillicons.dev/icons?i=less" />
+     <img src="https://skillicons.dev/icons?i=bootstrap" />
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </kbd>
+  <br>
+  <br>
   <kbd>
-    <kbd>Back-end</kbd>
+    <kbd>Back-end Frameworks</kbd>
     <br>
     <br>
     <img src="https://skillicons.dev/icons?i=fastapi" />
     <img src="https://skillicons.dev/icons?i=spring" />
     <img src="https://skillicons.dev/icons?i=nodejs" />
-    <img src="https://skillicons.dev/icons?i=gradle" />
-  </kbd>
-   <kbd>
-    <kbd>CSS Preprocessor</kbd>
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=sass" />
-    <img src="https://skillicons.dev/icons?i=less" />
+    <img src="https://skillicons.dev/icons?i=express" />
   </kbd>
   <kbd>
-    <kbd>Web Lenguage</kbd>
+    <kbd>JavaScript Frameworks</kbd>
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=html" />
-    <img src="https://skillicons.dev/icons?i=css" />
-    <img src="https://skillicons.dev/icons?i=js" />
-    <img src="https://skillicons.dev/icons?i=ts" />
-  </kbd>
-  <kbd>
-    <kbd>Front-end Frameworks & tools</kbd>
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
-    <img src="https://skillicons.dev/icons?i=tailwind" />
     <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=angular" />
     <img src="https://skillicons.dev/icons?i=vue" />
     <img src="https://skillicons.dev/icons?i=svelte" />
-    <img src="https://skillicons.dev/icons?i=vercel" />
+    <img src="https://skillicons.dev/icons?i=nextjs" />
     <img src="https://skillicons.dev/icons?i=astro" />
     <img src="https://skillicons.dev/icons?i=vite" />
   </kbd>
+  <br>
+  <br>
   <kbd>
     <kbd>Database</kbd>
     <br>
@@ -71,7 +104,6 @@
     <img src="https://skillicons.dev/icons?i=mongo" />
     <img src="https://skillicons.dev/icons?i=mysql" />
     <img src="https://skillicons.dev/icons?i=postgres" />
-    <img src="https://skillicons.dev/icons?i=redis" />
     <img src="https://skillicons.dev/icons?i=supabase" />
     
   </kbd>
@@ -79,77 +111,29 @@
     <kbd>Tools</kbd>
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=anaconda,netlify,visualstudio,webstorm,vscode,idea,vim" />
+    <img src="https://skillicons.dev/icons?i=anaconda,netlify,vercel,webstorm,idea,vscode,visualstudio" />
   </kbd>
+  <br>
+  <br>
   <kbd>
     <kbd>Terminal Scripts & Control Version</kbd>
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=bash" />
-    <img src="https://skillicons.dev/icons?i=powershell" />
     <img src="https://skillicons.dev/icons?i=git" />
-    <img src="https://skillicons.dev/icons?i=docker" />
     <img src="https://skillicons.dev/icons?i=githubactions" />
     <img src="https://skillicons.dev/icons?i=github" />
-    <img src="https://skillicons.dev/icons?i=kubernetes" />
-  </kbd>
-  <br>
-  <kbd>
-    <kbd>Data Science & AI</kbd>
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=tensorflow" />
-    <img src="https://skillicons.dev/icons?i=pytorch" />
-    <img src="https://skillicons.dev/icons?i=sklearn" />
-    <img src="https://skillicons.dev/icons?i=opencv" />
   </kbd>
   <kbd>
-    <kbd>Server, testing % Pacages Managements</kbd> 
+    <kbd>Server & Pacages Managements</kbd> 
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=nginx,cypress,yarn,pnpm,npm" />
+    <img src="https://skillicons.dev/icons?i=nginx,pnpm,npm" />
   </kbd>
   <kbd>
     <kbd>Graphic Design & content creation</kbd>
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=ps,ae,ai,au,pr" />
-  </kbd>
-  <kbd>
-  <kbd>
-    <kbd>More Tools For Studyind</kbd>
-    <br>
-    <br>
-    <image src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-    <image src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
-    <image src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white"/>
-    <image src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-    <image src="https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
-    <image src="Pydantic](https://img.shields.io/badge/pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white"/>
-    <image src="https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3"/>
-    <image src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
-    <image src="https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515"/>
-    <image src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
-    <image src="https://img.shields.io/badge/DataGrip-%23000000.svg?style=for-the-badge&logo=DataGrip&logoColor=white"/>
-    <image src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
-    <image src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
-    <image src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
-    <image src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)"/>
-    <image src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue"/>
-    <image src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-    <image src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-    <image src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/>
-    <image src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
-    <image src="https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
-    <image src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"/>
-    <image src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
-    <image src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-    <image src="https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7"/>
-    <img src= "https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
-    <img src= "https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
-    <img src= "https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3"/>
-    <img src= "https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)"/>
-    <img src= "https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B"/>
+    <img src="https://skillicons.dev/icons?i=ps,ai,pr" />
   </kbd>
 </p>
 

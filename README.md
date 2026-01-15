@@ -22,9 +22,8 @@
     <br>
     <br>
     <img src="https://skillicons.dev/icons?i=py" /> 
-    <img src="https://skillicons.dev/icons?i=cs" />
     <img src="https://skillicons.dev/icons?i=java" />
-    <!--<img src="https://skillicons.dev/icons?i=python,cs,java," />-->
+    <img src="https://skillicons.dev/icons?i=dart" />
   </kbd>
   <kbd>
     <kbd>Back-end</kbd>
@@ -33,7 +32,6 @@
     <img src="https://skillicons.dev/icons?i=fastapi" />
     <img src="https://skillicons.dev/icons?i=spring" />
     <img src="https://skillicons.dev/icons?i=nodejs" />
-    <img src="https://skillicons.dev/icons?i=net" />
   </kbd>
    <kbd>
     <kbd>CSS Preprocessor</kbd>
@@ -43,7 +41,7 @@
     <img src="https://skillicons.dev/icons?i=less" />
   </kbd>
   <kbd>
-    <kbd>Front-end</kbd>
+    <kbd>Web Lenguage</kbd>
     <br>
     <br>
     <img src="https://skillicons.dev/icons?i=html" />
@@ -56,12 +54,13 @@
     <br>
     <br>
     <img src="https://skillicons.dev/icons?i=mongo" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
     <img src="https://skillicons.dev/icons?i=postgres" />
     <img src="https://skillicons.dev/icons?i=supabase" />
   </kbd>
   <br>
   <br>
-  <kbd>
+  <!--<kbd>
     <kbd>Data Science & AI</kbd>
     <br>
     <br>
@@ -69,10 +68,9 @@
     <img src="https://skillicons.dev/icons?i=pytorch" />
     <img src="https://skillicons.dev/icons?i=sklearn" />
     <img src="https://skillicons.dev/icons?i=opencv" />
-  </kbd>
- 
+  </kbd>-->
   <kbd>
-    <kbd>Web Frameworks & tools</kbd>
+    <kbd>Front-end Frameworks & tools</kbd>
     <br>
     <br>
     <img src="https://skillicons.dev/icons?i=bootstrap" />
@@ -93,7 +91,11 @@
     <img src="https://skillicons.dev/icons?i=git" />
     <img src="https://skillicons.dev/icons?i=docker" />
     <img src="https://skillicons.dev/icons?i=githubactions" />
+    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=kubernetes" />
   </kbd>
+  <br>
+  <br>
   <kbd>
     <kbd>Tools</kbd>
     <br>
@@ -101,22 +103,52 @@
     <img src="https://skillicons.dev/icons?i=anaconda,netlify,visualstudio,webstorm,vscode,idea,vim" />
   </kbd>
   <kbd>
-    <kbd>Server, testing</kbd> 
+    <kbd>Server, testing % Pacages Managements</kbd> 
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=nginx" />
+    <img src="https://skillicons.dev/icons?i=nginx,cypress,yarn,pnpm,npm" />
   </kbd>
   <kbd>
-    <kbd>Game Design & content creation</kbd>
+    <kbd>Graphic Design & content creation</kbd>
     <br>
     <br>
     <img src="https://skillicons.dev/icons?i=ps,ae,ai,au,pr" />
   </kbd>
   <kbd>
-    <kbd>Game Development</kbd>
+  <kbd>
+    <kbd>More Tools For Studyind</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+    <image src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+    <image src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+    <image src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white"/>
+    <image src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+    <image src="https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
+    <image src="Pydantic](https://img.shields.io/badge/pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white"/>
+    <image src="https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3"/>
+    <image src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
+    <image src="https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515"/>
+    <image src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
+    <image src="https://img.shields.io/badge/DataGrip-%23000000.svg?style=for-the-badge&logo=DataGrip&logoColor=white"/>
+    <image src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+    <image src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+    <image src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+    <image src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)"/>
+    <image src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue"/>
+    <image src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+    <image src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+    <image src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/>
+    <image src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
+    <image src="https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+    <image src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"/>
+    <image src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
+    <image src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+    <image src="https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7"/>
+    <img src= "https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3"/>
+    <img src= "https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)"/>
+    <img src= "https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B"/>
   </kbd>
 </p>
 
@@ -172,22 +204,121 @@
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=leonardo-adames&icon=10&color=12)](https://visitcount.itsvg.in)
+<br>
 
-<div align="center">
+<H2 align="center">MY SOCIAL NETWORKS</H2>
+  
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>Blogs & Personal</kbd>
+    <br>
+    <br>
+    <br>
+    <a href="https://facebook.com/@PrototipoRCC" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&shape=square"
+           alt="Facebook"/>
+    </a>
+    <br>
+    <a href="https://instagram.com/@leonardotm1" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&shape=square"
+           alt="Instagram"/>
+    </a>
+    <br>
+    <a href="https://linkedin.com/in/leonardo-adames" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&shape=square"
+           alt="LinkedIn"/>
+    </a>
+    <br>
+    <a href="https://pinterest.com/haezdesing8821" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white&shape=square"
+           alt="Pinterest"/>
+    </a>
+    <br>
+    <a href="https://x.com/LeitoRCC" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&shape=square"
+           alt="X"/>
+    </a>
+    <br>
+    <a href="https://mailto:haezdesing8821@gmail.com" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&shape=square"
+           alt="Gmail"/>
+    </a>
+  </kbd>
 
-<h2>This is  my social network  and contact font </h2>
+  <kbd>
+    <kbd>Streaming</kbd>
+    <br>
+    <br>
+    <br>
+    <a href="https://tiktok.com/@@leonardotm1 " target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&shape=square"
+           alt="Tiktok"/>
+    </a>
+    <br>
+    <a href="https://twitch.tv/leitog21" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&shape=square"
+           alt="Twich"/>
+    </a>
+    <br>
+    <a href="https://youtube.com/@@Graphicdatastudio" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&shape=square"
+           alt="Youtube"/>
+    </a>
+    <br>
+    <a href="https://facebook.com/@PrototipoRCC" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Facebook%20Live-ED4242?style=for-the-badge&logo=Facebook%20Live&logoColor=white"
+           alt="Facebook Live"/>
+    </a>
+    <br>
+    <a href="" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/kick-53FC18?style=for-the-badge&logo=kick&logoColor=white"
+           alt="Kick"/>
+    </a>
+    <br>
+    <a href="https://youtube.com/@@Graphicdatastudio" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white"
+           alt="Youtube Gaming"/>
+    </a>
+  </kbd>
 
-| Blogs | Streaming | Schools | Gaming | Hobbies |
-| ----------- | ----------- | ----------- | ----------- | ----------- |
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&shape=square)](https://facebook.com/@PrototipoRCC) | [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&shape=square)](https://tiktok.com/@@leonardotm1) | ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) | ![Xbox](https://img.shields.io/badge/🎮%20Xbox-107C10?style=for-the-badge) | [![Coda](https://img.shields.io/badge/coda-%23F46A54.svg?style=for-the-badge&logo=coda&logoColor=white)](https://coda.io/@a-a-leonardo-adames)|
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&shape=square)](https://instagram.com/@leonardotm1) | [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&shape=square)](https://twitch.tv/leitog21) | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gUEljrStrO)| ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)| [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&shape=square)](https://codepen.io/leonardo-adames)|
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&shape=square)](https://linkedin.com/in/leonardo-adames) | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&shape=square)](https://youtube.com/@@Graphicdatastudio) | [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Leonardo%20Adames) | ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) | ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)|
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white&shape=square)](https://pinterest.com/haezdesing8821) | ![Facebook Live](https://img.shields.io/badge/Facebook%20Live-ED4242?style=for-the-badge&logo=Facebook%20Live&logoColor=white) | ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white) | ![Gamecube](https://img.shields.io/badge/Gamecube-6A5FBB?style=for-the-badge&logo=nintendo-gamecube&logoColor=white) | ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)|
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&shape=square)](https://x.com/LeitoRCC) | ![Kick](https://img.shields.io/badge/kick-53FC18?style=for-the-badge&logo=kick&logoColor=white) | ![GitBook](https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white) | ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)| ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)|
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&shape=square)](mailto:haezdesing8821@gmail.com) | ![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white) | ![W3 Schools](https://img.shields.io/badge/W3%20Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)  | ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)| ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)|
+  <kbd>
+    <kbd>Student</kbd>
+    <br>
+    <br>
+    <br>
+    <a href="https://" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"
+           alt="FreeCodeCamp"/>
+    </a>
+    <br>
+    <a href="https://leetcode.com/u/gUEljrStrO" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+           alt="LeetCode"/>
+    </a>
+    <br>
+    <a href="https://www.codewars.com/users/Leonardo%20Adames" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"
+           alt="Codewars"/>
+    </a>
+    <br>
+    <a href="https://" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white"
+           alt="edX"/>
+    </a>
+    <br>
+    <a href="https://" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white"
+           alt="GitBookKick"/>
+    </a>
+    <br>
+    <a href="https://" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/W3%20Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white"
+           alt="W3 Schools"/>
+    </a>
+  </kbd>
+</p>
 
-</div>
-
+<br>
 <h3 align="center">💰 You can help me by Donating</h3>
 
 <div align="center">

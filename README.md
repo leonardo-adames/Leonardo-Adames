@@ -36,7 +36,6 @@
       
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> TEGNOLOGIES AND TOOLS FOR USE
 
-<div align="center">
 <p style="display: inline-block;" align="letf">
   <kbd>
     <kbd>Programming Languages</kbd>
@@ -57,15 +56,7 @@
     <img src="https://skillicons.dev/icons?i=sass" />
   </kbd>
   <kbd>
-    <kbd>Back-end Frameworks</kbd>
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=fastapi" />
-    <img src="https://skillicons.dev/icons?i=spring" />
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-  </kbd>
-  <kbd>
-    <kbd>Front-end Frameworks</kbd>
+    <kbd>Back-end & Front-end Frameworks</kbd>
     <br>
     <br>
     <img src="https://skillicons.dev/icons?i=react" />
@@ -73,9 +64,10 @@
     <img src="https://skillicons.dev/icons?i=bootstrap" />
     <img src="https://skillicons.dev/icons?i=vue" />
     <img src="https://skillicons.dev/icons?i=svelte" />
+    <img src="https://skillicons.dev/icons?i=fastapi" />
+    <img src="https://skillicons.dev/icons?i=spring" />
+    <img src="https://skillicons.dev/icons?i=nodejs" />
   </kbd>
-  <kbd>
-  <br>
   <br>
   <kbd>
     <kbd>Database</kbd>
@@ -88,13 +80,17 @@
     <img src="https://skillicons.dev/icons?i=firebase" />
   </kbd>
   <kbd>
+    <kbd>Server & Pacages Managements</kbd> 
+    <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=nginx,pnpm,npm,yarn" />
+  </kbd>
+  <kbd>
     <kbd>Tools</kbd>
     <br>
     <br>
     <img src="https://skillicons.dev/icons?i=anaconda,webstorm,idea,pycharm,selenium,vscode,visualstudio,notion,md,postman,github" />
   </kbd>
-  <br>
-  <br>
   <kbd>
     <kbd>Terminal Scripts & Control Version</kbd>
     <br>
@@ -107,19 +103,12 @@
     <img src="https://skillicons.dev/icons?i=docker" />
   </kbd>
   <kbd>
-    <kbd>Server & Pacages Managements</kbd> 
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=nginx,pnpm,npm,yarn" />
-  </kbd>
-  <kbd>
     <kbd>Graphic Design & content creation</kbd>
     <br>
     <br>
     <img src="https://skillicons.dev/icons?i=ps,ai,pr,xd,materialui,figma" />
   </kbd>
 </p>
-</div>
 <br>
     
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> MY SOFTS SKILLS

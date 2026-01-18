@@ -10,7 +10,7 @@
 <h3>A student passionate about technology and creator of educational content, I share clear and practical tutorials on tools, programming, and development environments. My goal is to help others learn from scratch, build a solid foundation, and master modern technologies. My process, projects, and growth as a developer are documented on YouTube and other platforms.</h3>
 
 <kbd>
-    <kbd>Tools For Studyind Know</kbd>
+    <div align="center"><kbd>Tools For Studyind Know</kbd></div>
     <br>
     <br>
     <image src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
@@ -21,9 +21,6 @@
     <image src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
     <image src="https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515"/>
     <image src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
-    <image src="https://img.shields.io/badge/DataGrip-%23000000.svg?style=for-the-badge&logo=DataGrip&logoColor=white"/>
-    <image src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
-    <image src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
     <image src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue"/>
     <image src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
     <image src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -35,12 +32,11 @@
     <img src= "https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
     <img src= "https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3"/>
     <img src= "https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)"/>
-    <img src= "https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B"/>
   </kbd>
       
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> TEGNOLOGIES AND TOOLS FOR USE
 
-<!--
+<div align="center">
 <p style="display: inline-block;" align="letf">
   <kbd>
     <kbd>Programming Languages</kbd>
@@ -48,6 +44,7 @@
     <br>
     <img src="https://skillicons.dev/icons?i=py" /> 
     <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=bash" />
    </kbd>
    <kbd>
     <kbd>Web Lenguage</kbd>
@@ -57,16 +54,8 @@
     <img src="https://skillicons.dev/icons?i=css" />
     <img src="https://skillicons.dev/icons?i=js" />
     <img src="https://skillicons.dev/icons?i=ts" />
-  </kbd>
-   <kbd>
-    <kbd>CSS Prepocessor</kbd>
-    <br>
-    <br>
     <img src="https://skillicons.dev/icons?i=sass" />
-    <img src="https://skillicons.dev/icons?i=less" />
   </kbd>
-  <br>
-  <br>
   <kbd>
     <kbd>Back-end Frameworks</kbd>
     <br>
@@ -74,7 +63,6 @@
     <img src="https://skillicons.dev/icons?i=fastapi" />
     <img src="https://skillicons.dev/icons?i=spring" />
     <img src="https://skillicons.dev/icons?i=nodejs" />
-    
   </kbd>
   <kbd>
     <kbd>Front-end Frameworks</kbd>
@@ -85,16 +73,8 @@
     <img src="https://skillicons.dev/icons?i=bootstrap" />
     <img src="https://skillicons.dev/icons?i=vue" />
     <img src="https://skillicons.dev/icons?i=svelte" />
-    </kbd>
-    <kbd>
-    <kbd>Web Components</kbd>
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=astro" />
-    <img src="https://skillicons.dev/icons?i=vite" />
-    <img src="https://skillicons.dev/icons?i=netlify" />
-    <img src="https://skillicons.dev/icons?i=vercel" />
   </kbd>
+  <kbd>
   <br>
   <br>
   <kbd>
@@ -104,14 +84,14 @@
     <img src="https://skillicons.dev/icons?i=mongo" />
     <img src="https://skillicons.dev/icons?i=mysql" />
     <img src="https://skillicons.dev/icons?i=postgres" />
-    <img src="https://skillicons.dev/icons?i=supabase" />
-    
+    <img src="https://skillicons.dev/icons?i=supabase" /> 
+    <img src="https://skillicons.dev/icons?i=firebase" />
   </kbd>
   <kbd>
     <kbd>Tools</kbd>
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=anaconda,webstorm,idea,pycharm,vscode,visualstudio,notion,github" />
+    <img src="https://skillicons.dev/icons?i=anaconda,webstorm,idea,pycharm,selenium,vscode,visualstudio,notion,md,postman,github" />
   </kbd>
   <br>
   <br>
@@ -121,25 +101,27 @@
     <br>
     <img src="https://skillicons.dev/icons?i=powershell" />
     <img src="https://skillicons.dev/icons?i=git" />
-    <img src="https://skillicons.dev/icons?i=bash" />
+    <img src="https://skillicons.dev/icons?i=windows" />
     <img src="https://skillicons.dev/icons?i=githubactions" />
     <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=docker" />
   </kbd>
   <kbd>
     <kbd>Server & Pacages Managements</kbd> 
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=nginx,pnpm,npm" />
+    <img src="https://skillicons.dev/icons?i=nginx,pnpm,npm,yarn" />
   </kbd>
   <kbd>
     <kbd>Graphic Design & content creation</kbd>
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=ps,ai,pr,xd" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,pr,xd,materialui,figma" />
   </kbd>
 </p>
+</div>
 <br>
--->
+    
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> MY SOFTS SKILLS
 
 |![](https://img.shields.io/badge/Critical%20thinking-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Problem%20Lsolving-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/%20Teamwork_adn_Collaboration-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/%20Effective_communication-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Active_Lisstening-brightgreen?style=for-the-badge)|

@@ -63,7 +63,6 @@
     <img src="https://skillicons.dev/icons?i=angular" />
     <img src="https://skillicons.dev/icons?i=bootstrap" />
     <img src="https://skillicons.dev/icons?i=vue" />
-    <img src="https://skillicons.dev/icons?i=svelte" />
     <img src="https://skillicons.dev/icons?i=fastapi" />
     <img src="https://skillicons.dev/icons?i=spring" />
     <img src="https://skillicons.dev/icons?i=nodejs" />
@@ -74,7 +73,6 @@
     <br>
     <br>
     <img src="https://skillicons.dev/icons?i=mongo" />
-    <img src="https://skillicons.dev/icons?i=mysql" />
     <img src="https://skillicons.dev/icons?i=postgres" />
     <img src="https://skillicons.dev/icons?i=supabase" /> 
     <img src="https://skillicons.dev/icons?i=firebase" />
@@ -84,6 +82,12 @@
     <br>
     <br>
     <img src="https://skillicons.dev/icons?i=nginx,pnpm,npm,yarn" />
+  </kbd>
+    <kbd>
+    <kbd>Graphic Design & content creation</kbd>
+    <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=ps,ai,pr,xd,figma" />
   </kbd>
   <kbd>
     <kbd>Tools</kbd>
@@ -102,16 +106,9 @@
     <img src="https://skillicons.dev/icons?i=github" />
     <img src="https://skillicons.dev/icons?i=docker" />
   </kbd>
-  <kbd>
-    <kbd>Graphic Design & content creation</kbd>
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=ps,ai,pr,xd,materialui,figma" />
-  </kbd>
-</p>
-<br>
-    
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> MY SOFTS SKILLS
+</p> 
+
+## MY SOFTS SKILLS
 
 |![](https://img.shields.io/badge/Critical%20thinking-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Problem%20Lsolving-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/%20Teamwork_adn_Collaboration-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/%20Effective_communication-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Active_Lisstening-brightgreen?style=for-the-badge)|
 |---|---|---|---|---|

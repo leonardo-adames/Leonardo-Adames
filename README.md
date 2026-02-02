@@ -24,7 +24,7 @@
     <!--<img src="https://skillicons.dev/icons?i=ts" />-->
     <img src="https://skillicons.dev/icons?i=sass" />
   </kbd>
-  <kbd>
+  <!--<kbd>
     <kbd>Back-end & Front-end Frameworks</kbd>
     <br>
     <br>
@@ -33,9 +33,9 @@
     <img src="https://skillicons.dev/icons?i=bootstrap" />
     <img src="https://skillicons.dev/icons?i=vue" />
     <img src="https://skillicons.dev/icons?i=fastapi" />
-    <!--<img src="https://skillicons.dev/icons?i=spring" />-->
+    <!--<img src="https://skillicons.dev/icons?i=spring" />
     <img src="https://skillicons.dev/icons?i=nodejs" />
-  </kbd>
+  </kbd>-->
   <kbd>
     <kbd>Database</kbd>
     <br>

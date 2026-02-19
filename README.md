@@ -22,7 +22,7 @@
     <img src="https://skillicons.dev/icons?i=css" />
     <img src="https://skillicons.dev/icons?i=js" />
     <!--<img src="https://skillicons.dev/icons?i=ts" />-->
-    <img src="https://skillicons.dev/icons?i=sass" />
+    <!--<img src="https://skillicons.dev/icons?i=sass" />-->
   </kbd>
   <!--<kbd>
     <kbd>Back-end & Front-end Frameworks</kbd>
@@ -42,8 +42,9 @@
     <br>
     <img src="https://skillicons.dev/icons?i=mongo" />
     <img src="https://skillicons.dev/icons?i=postgres" />
-    <img src="https://skillicons.dev/icons?i=supabase" /> 
-    <!--<img src="https://skillicons.dev/icons?i=firebase" />-->
+    <img src="https://skillicons.dev/icons?i=mysql" />
+    <!--<img src="https://skillicons.dev/icons?i=supabase" />--> 
+   
   </kbd>
  <!-- <kbd>
     <kbd>Server & Pacages Managements</kbd> 
@@ -55,39 +56,40 @@
     <kbd>Graphic Design & content creation</kbd>
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,xd,figma" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,pr,figma" />
   </kbd>
   <kbd>
     <kbd>My Tools for use, Terminal Scripts & Control Version</kbd>
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=anaconda,pycharm,vscode,notion,md" />
+    <img src="https://skillicons.dev/icons?i=pycharm,idea,webstorm,vscode,git,github,githubactions" />
    <!--<img src="https://skillicons.dev/icons?i=powershell" />-->
-    <img src="https://skillicons.dev/icons?i=git" />
-    <img src="https://skillicons.dev/icons?i=githubactions" />
-    <img src="https://skillicons.dev/icons?i=github" />
-    <!--<img src="https://skillicons.dev/icons?i=windows" />-->
-    <!--<img src="https://skillicons.dev/icons?i=docker" />-->
+    <img src="https://skillicons.dev/icons?i=md" />
+    <img src="https://skillicons.dev/icons?i=notion" />
+    <img src="https://skillicons.dev/icons?i=obsidian" />
+    <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </kbd>
 </p> 
   <kbd>
     <div align="center"><kbd>Librerias & herramientas que estudio</kbd></div>
     <br>
     <br>
-    <div align="center">
+    <div>
     <image src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/> 
     <image src="https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
     <image src="Pydantic](https://img.shields.io/badge/pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white"/>
     <image src="https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3"/>
-    <image src="https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515"/>
+    <!--<image src="https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515"/>-->
     <image src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue"/>
     <image src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
     <image src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-    <image src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/>
     <image src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-    <image src="https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7"/>
+    <image src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"/>
+    <image src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+    <image src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+    <!--<image src="https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7"/>
     <img src= "https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3"/>
-    <img src= "https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)"/>
+    <img src= "https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)"/>-->
     </div>
    </kbd>
     

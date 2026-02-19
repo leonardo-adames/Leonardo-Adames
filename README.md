@@ -9,8 +9,7 @@
 
 <h3>A student passionate about technology and creator of educational content, I share clear and practical tutorials on tools, programming, and development environments. My goal is to help others learn from scratch, build a solid foundation, and master modern technologies. My process, projects, and growth as a developer are documented on YouTube and other platforms.</h3>
       
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> MY STUDIYNG 
-
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> MY SKILS 
 <p style="display: inline-block;" align="letf">
   <kbd>
     <kbd>Programming Languages</kbd>

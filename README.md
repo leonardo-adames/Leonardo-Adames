@@ -14,49 +14,49 @@
 <table width="100%">
   <tr>
     <td align="center" width="33.33%">
-      <kbd><strong>Python</strong><br>
-      <img src="https://skillicons.dev/icons?i=py" /></kbd>
+      <kbd><strong>programming language</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=py,java,cs,rust,go" /></kbd>
     </td>
     <td align="center" width="33.33%">
-      <kbd><strong>Java</strong><br>
-      <img src="https://skillicons.dev/icons?i=java" /></kbd>
+      <kbd><strong>Cloud Computing</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,netlify" /></kbd>
     </td>
     <td align="center" width="33.33%">
-      <kbd><strong>Web</strong><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js" /></kbd>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33.33%">
-      <kbd><strong>Frontend</strong><br>
-      <img src="https://skillicons.dev/icons?i=react,angular,vue,bootstrap" /></kbd>
-    </td>
-    <td align="center" width="33.33%">
-      <kbd><strong>Backend</strong><br>
-      <img src="https://skillicons.dev/icons?i=nodejs" /></kbd>
-    </td>
-    <td align="center" width="33.33%">
-      <kbd><strong>Databases</strong><br>
-      <img src="https://skillicons.dev/icons?i=mongo,redis,postgres,mysql" /></kbd>
+      <kbd><strong>Web</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass" /></kbd>
     </td>
   </tr>
   <tr>
     <td align="center" width="33.33%">
-      <kbd><strong>Design</strong><br>
-      <img src="https://skillicons.dev/icons?i=ps,ai,pr,figma" /></kbd>
+      <kbd><strong>Frontend</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=react,angular,vue,tailwind,bootstrap" /></kbd>
     </td>
     <td align="center" width="33.33%">
-      <kbd><strong>Editors</strong><br>
-      <img src="https://skillicons.dev/icons?i=pycharm,idea,webstorm,vscode" /></kbd>
+      <kbd><strong>Backend</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,fastapi,spring,net,actix" /></kbd>
     </td>
     <td align="center" width="33.33%">
-      <kbd><strong>Workflow</strong><br>
-      <img src="https://skillicons.dev/icons?i=git,github,githubactions,md,notion,obsidian,stackoverflow" /></kbd>
+      <kbd><strong>Databases</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=mongo,redis,postgres,mysql,supabase" /></kbd>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33.33%">
+      <kbd><strong>Design</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=ps,ai,pr,au,figma" /></kbd>
+    </td>
+    <td align="center" width="33.33%">
+      <kbd><strong>Editors</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=neovim,pycharm,idea,webstorm,vscode" /></kbd>
+    </td>
+    <td align="center" width="33.33%">
+      <kbd><strong>Workflow</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,md,notion" /></kbd>
     </td>
   </tr>
 </table>
 
-<h2 align="center">📚 Librerías y Herramientas que Estudio</h2>
+<h2>📚 Librerías y Herramientas De Data Analytics</h2>
 
 <table align="center">
   <tr>
@@ -89,7 +89,7 @@
   </tr>
 </table>
 
-<h2 align="center">🧠 Soft Skills</h2>
+<!--<h2>🧠 Soft Skills</h2>
 
 <table align="center">
   <tr>
@@ -126,84 +126,77 @@
       <img src="https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge"/>
     </td>
   </tr>
-</table>
+</table>-->
 
 ---
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GITHUB STATS
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Adames&theme=tokyonight" alt="mystreak"/>
 
-<h3 align="center">✍️ Random Dev Quote</h3>
+<h2 align="center">My Social Networks · Personal, Streaming & Studying</h2>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
-[![](https://visitcount.itsvg.in/api?id=leonardo-adames&icon=10&color=12)](https://visitcount.itsvg.in)
-<br>
-
-<H2 align="center">MY SOCIAL NETWORKS[Personal, Streaming & Studying]</H2>
-  
-<p style="display: inline-block;" align="center">
-  <kbd>
-    <a href="https://facebook.com/@PrototipoRCC" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&shape=square"
-           alt="Facebook"/>
-    <a href="https://instagram.com/@leonardotm1" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&shape=square"
-           alt="Instagram"/>
-    <a href="https://linkedin.com/in/leonardo-adames" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&shape=square"
-           alt="LinkedIn"/>
-    <a href="https://pinterest.com/haezdesing8821" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white&shape=square"
-           alt="Pinterest"/>
-    <a href="https://x.com/LeitoRCC" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&shape=square"
-           alt="X"/>
-    <a href="https://mailto:haezdesing8821@gmail.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&shape=square"
-           alt="Gmail"/>
-    <a href="https://tiktok.com/@@leonardotm1 " target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&shape=square"
-           alt="Tiktok"/>
-    </a>
-    <a href="https://twitch.tv/leitog21" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&shape=square"
-           alt="Twich"/>
-    <a href="https://youtube.com/@@Graphicdatastudio" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&shape=square"
-           alt="Youtube"/>
-    <a href="https://facebook.com/@PrototipoRCC" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Facebook%20Live-ED4242?style=for-the-badge&logo=Facebook%20Live&logoColor=white"
-           alt="Facebook Live"/>
-    <a href="" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/kick-53FC18?style=for-the-badge&logo=kick&logoColor=white"
-           alt="Kick"/>
-    <a href="https://youtube.com/@@Graphicdatastudio" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white"
-           alt="Youtube Gaming"/>
-    <a href="https://" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"
-           alt="FreeCodeCamp"/>
-    <a href="https://leetcode.com/u/gUEljrStrO" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-           alt="LeetCode"/>
-    <a href="https://www.codewars.com/users/Leonardo%20Adames" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"
-           alt="Codewars"/>
-    <a href="https://" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white"
-           alt="edX"/>
-    <a href="https://" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white"
-           alt="GitBookKick"/>
-    <a href="https://" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/W3%20Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white"
-           alt="W3 Schools"/>
-    </a>
-  </kbd>
-</p>
+<table width="100%" align="center">
+  <tr>
+    <td align="center" width="33.33%">
+      <kbd>
+        <strong>Personal</strong><br><br>
+        <a href="https://facebook.com/PrototipoRCC" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+        </a>
+        <a href="https://instagram.com/leonardotm1" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+        </a>
+        <a href="https://linkedin.com/in/leonardo-adames" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+        <a href="https://x.com/LeitoRCC" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+        </a>
+        <a href="mailto:haezdesing8821@gmail.com" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        </a>
+      </kbd>
+    </td>
+    <td align="center" width="33.33%">
+      <kbd>
+        <strong>Streaming</strong><br><br>
+        <a href="https://tiktok.com/@leonardotm1" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+        </a>
+        <a href="https://twitch.tv/leitog21" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
+        </a>
+        <a href="https://youtube.com/@Graphicdatastudio" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+        </a>
+        <a href="https://facebook.com/PrototipoRCC" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Facebook%20Live-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Live"/>
+        </a>
+      </kbd>
+    </td>
+    <td align="center" width="33.33%">
+      <kbd>
+        <strong>Studying</strong><br><br>
+        <a href="https://leetcode.com/u/gUEljrStrO" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+        </a>
+        <a href="https://www.codewars.com/users/Leonardo%20Adames" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/>
+        </a>
+        <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp"/>
+        </a>
+        <a href="https://www.edx.org/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/edX-02262B?style=for-the-badge&logo=edx&logoColor=white" alt="edX"/>
+        </a>
+        <a href="https://www.w3schools.com/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white" alt="W3Schools"/>
+        </a>
+      </kbd>
+    </td>
+  </tr>
+</table>
 
 <br>
 <h3 align="center">💰 You can help me by Donating</h3>

@@ -10,129 +10,127 @@
 <h3>A student passionate about technology and creator of educational content, I share clear and practical tutorials on tools, programming, and development environments. My goal is to help others learn from scratch, build a solid foundation, and master modern technologies. My process, projects, and growth as a developer are documented on YouTube and other platforms.</h3>
       
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> MY SKILS 
-<p style="display: inline-block;" align="letf">
-  <kbd>
-    <kbd>Programming Languages</kbd>
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=py" /> 
-    <!--<img src="https://skillicons.dev/icons?i=java" />-->
-    <img src="https://skillicons.dev/icons?i=html" />
-    <img src="https://skillicons.dev/icons?i=css" />
-    <img src="https://skillicons.dev/icons?i=js" />
-    <!--<img src="https://skillicons.dev/icons?i=ts" />-->
-    <!--<img src="https://skillicons.dev/icons?i=sass" />-->
-  </kbd>
-  <!--<kbd>
-    <kbd>Back-end & Front-end Frameworks</kbd>
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=react" />
-    <img src="https://skillicons.dev/icons?i=angular" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
-    <img src="https://skillicons.dev/icons?i=vue" />
-    <img src="https://skillicons.dev/icons?i=fastapi" />
-    <!--<img src="https://skillicons.dev/icons?i=spring" />
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-  </kbd>-->
-  <kbd>
-    <kbd>Database</kbd>
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=mongo" />
-    <img src="https://skillicons.dev/icons?i=postgres" />
-    <img src="https://skillicons.dev/icons?i=mysql" />
-    <!--<img src="https://skillicons.dev/icons?i=supabase" />--> 
-   
-  </kbd>
- <!-- <kbd>
-    <kbd>Server & Pacages Managements</kbd> 
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=nginx,pnpm,npm,yarn" />
-  </kbd>-->
-    <kbd>
-    <kbd>Graphic Design & content creation</kbd>
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=ps,ai,pr,figma" />
-  </kbd>
-  <kbd>
-    <kbd>My Tools for use, Terminal Scripts & Control Version</kbd>
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=pycharm,idea,webstorm,vscode,git,github,githubactions" />
-   <!--<img src="https://skillicons.dev/icons?i=powershell" />-->
-    <img src="https://skillicons.dev/icons?i=md" />
-    <img src="https://skillicons.dev/icons?i=notion" />
-    <img src="https://skillicons.dev/icons?i=obsidian" />
-    <img src="https://skillicons.dev/icons?i=stackoverflow" />
-  </kbd>
-</p> 
-  <kbd>
-    <div align="center"><kbd>Librerias & herramientas que estudio</kbd></div>
-    <br>
-    <br>
-    <div>
-    <image src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/> 
-    <image src="https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
-    <image src="Pydantic](https://img.shields.io/badge/pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white"/>
-    <image src="https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3"/>
-    <!--<image src="https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515"/>-->
-    <image src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue"/>
-    <image src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-    <image src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-    <image src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-    <image src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"/>
-    <image src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-    <image src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-    <!--<image src="https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7"/>
-    <img src= "https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3"/>
-    <img src= "https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)"/>-->
-    </div>
-   </kbd>
-    
 
-## MY SOFTS SKILLS
+<table width="100%">
+  <tr>
+    <td align="center" width="33.33%">
+      <kbd><strong>Python</strong><br>
+      <img src="https://skillicons.dev/icons?i=py" /></kbd>
+    </td>
+    <td align="center" width="33.33%">
+      <kbd><strong>Java</strong><br>
+      <img src="https://skillicons.dev/icons?i=java" /></kbd>
+    </td>
+    <td align="center" width="33.33%">
+      <kbd><strong>Web</strong><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js" /></kbd>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33.33%">
+      <kbd><strong>Frontend</strong><br>
+      <img src="https://skillicons.dev/icons?i=react,angular,vue,bootstrap" /></kbd>
+    </td>
+    <td align="center" width="33.33%">
+      <kbd><strong>Backend</strong><br>
+      <img src="https://skillicons.dev/icons?i=nodejs" /></kbd>
+    </td>
+    <td align="center" width="33.33%">
+      <kbd><strong>Databases</strong><br>
+      <img src="https://skillicons.dev/icons?i=mongo,redis,postgres,mysql" /></kbd>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33.33%">
+      <kbd><strong>Design</strong><br>
+      <img src="https://skillicons.dev/icons?i=ps,ai,pr,figma" /></kbd>
+    </td>
+    <td align="center" width="33.33%">
+      <kbd><strong>Editors</strong><br>
+      <img src="https://skillicons.dev/icons?i=pycharm,idea,webstorm,vscode" /></kbd>
+    </td>
+    <td align="center" width="33.33%">
+      <kbd><strong>Workflow</strong><br>
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions,md,notion,obsidian,stackoverflow" /></kbd>
+    </td>
+  </tr>
+</table>
 
-|![](https://img.shields.io/badge/Critical%20thinking-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Problem%20Lsolving-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/%20Teamwork_adn_Collaboration-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/%20Effective_communication-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Active_Lisstening-brightgreen?style=for-the-badge)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/Leadership%20-blue?style=for-the-badge)|![](https://img.shields.io/badge/Time_Management/a%20Organization-blue?style=for-the-badge)|![](https://img.shields.io/badge/Adaptability/Flexiblity%20-blue?style=for-the-badge)|![](https://img.shields.io/badge/Emotional%20VIntelligence-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+<h2 align="center">📚 Librerías y Herramientas que Estudio</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <strong>Python & Data</strong>
+      <br><br>
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
+      <img src="https://img.shields.io/badge/pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyPI-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7"/>
+    </td>
+    <td align="center" width="33%">
+      <strong>Web, Backend & Testing</strong>
+      <br><br>
+      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3"/>
+      <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue"/>
+      <img src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3"/>
+      <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+    </td>
+    <td align="center" width="33%">
+      <strong>Business & Productivity</strong>
+      <br><br>
+      <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">🧠 Soft Skills</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Critical%20Thinking-brightgreen?style=for-the-badge"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Problem%20Solving-brightgreen?style=for-the-badge"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Teamwork%20and%20Collaboration-brightgreen?style=for-the-badge"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Effective%20Communication-brightgreen?style=for-the-badge"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Active%20Listening-brightgreen?style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Leadership-blue?style=for-the-badge"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Time%20Management%20and%20Organization-blue?style=for-the-badge"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Adaptability%20and%20Flexibility-blue?style=for-the-badge"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Emotional%20Intelligence-blue?style=for-the-badge"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GITHUB STATS
-
-<hr>
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:center;">Active Contributors (Últimos 28 días)</th>
-      <th style="text-align:center;">Top Contributors (Últimos 28 días)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=244390220" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=244390220&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @leonardo-adames" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=244390220&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-      </td>
-      <td>
-        <a href="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors?repo_id=340181518" target="_blank">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=340181518&image_size=auto&color_scheme=dark" width="373">
-            <img alt="Top Contributors of fastfetch-cli/fastfetch - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=340181518&image_size=auto&color_scheme=light" width="373">
-          </picture>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 
 <h3 align="center">✍️ Random Dev Quote</h3>

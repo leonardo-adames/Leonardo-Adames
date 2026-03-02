@@ -3,7 +3,7 @@
 </div>
 
 <img src="https://github.com/user-attachments/assets/d06f566f-2093-4855-87cf-416663f80bfa" alt="banner" width="1200" style="border-radius: 35px; margin-top: 35px;" />
-<h2 align="center">student of Programmation, web Developer, Graphic Designer and am Content Creator</h2>
+<h2 align="center">STUDENT OF PROGRAMMING, WEB DEVELOPMENT AND DATA ENGINEERING</h2>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> ABOUT ME
 
@@ -103,15 +103,6 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GITHUB STATS
 
-<div align="center">
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=244390220" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=244390220&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @leonardo-adames" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=244390220&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-</div>
-
 <hr>
 
 <table>
@@ -124,12 +115,12 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors?repo_id=1131492199&limit=30" target="_blank">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=1131492199&limit=30&image_size=auto&color_scheme=dark" width="655">
-            <img alt="Active Contributors of leonardo-adames/Leonardo-Adames - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=1131492199&limit=30&image_size=auto&color_scheme=light" width="655">
-          </picture>
-        </a>
+        <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=244390220" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=244390220&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @leonardo-adames" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=244390220&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
       </td>
       <td>
         <a href="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors?repo_id=340181518" target="_blank">
